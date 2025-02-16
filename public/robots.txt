@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://balisard.github.io/sitemap.xml
+Sitemap: https://bricoleur88.github.io/sitemap.xml
