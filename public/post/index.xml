@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Balisard.Blog</title>
+    <link>https://balisard.github.io/post/</link>
+    <description>Recent content in Posts on Balisard.Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jinhj6212@gmail.com (Balisard)</managingEditor>
+    <webMaster>jinhj6212@gmail.com (Balisard)</webMaster>
+    <copyright>© 2025 Balisard</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 22:00:27 +0900</lastBuildDate><atom:link href="https://balisard.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Helllo_world</title>
+      <link>https://balisard.github.io/post/helllo_world/</link>
+      <pubDate>Sun, 16 Feb 2025 22:00:27 +0900</pubDate>
+      <author>jinhj6212@gmail.com (Balisard)</author>
+      <guid>https://balisard.github.io/post/helllo_world/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
